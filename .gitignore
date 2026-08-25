@@ -1,0 +1,9 @@
+*.apk
+*.aab
+*.zip
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.pem
+*.key
